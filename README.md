@@ -14,7 +14,7 @@ Create a .env file with the following code and your own RapidAPI Key, in the roo
 
 ```
 REACT_APP_RAPID_API_KEY={your_api_key}
-``
+```
 
 ### `npm run start:frontend`
 
